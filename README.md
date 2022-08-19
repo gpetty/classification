@@ -4,7 +4,7 @@ Python code implementing and demonstrating the Pairwise Similarity Partitioning 
 
 Files in this archive include the followiing:
 
-* **PSP_Preprint2.pdf** — a preprint of the paper describing the algorithm as accepted by Artificial Intelligence for the Earth Systems
+* **PSP_Preprint2.pdf** — a preprint of the paper describing the algorithm as accepted by Artificial Intelligence for the Earth Systems (not yet copy-edited for publication).
 * **PSP_minimal.py** — a minimal implementation of the PSP algorithm consisting solely of a function definition.
 * **PSP.py** - a complete module implementating a PSP class with associated methods; required by many of the Jupyter notebooks listed below.
 * **PSP_DemoData1**  — a binary file containing the mock dataset used to create Figs. 2-7 of the above paper. Might not be portable.
