@@ -1,6 +1,6 @@
 # Pairwise Similarity Partitioning algorithm
 
-Python code implementing and demonstrating the Pairwise Similarity Partitioning algorithm described by Petty (2022): The Pairwise Similarity Partitioning algorithm: a method for unsupervised partitioning of geoscientific and other datasets using arbitrary similarity metrics.  *Artificial Intelligence for the Earth Systems* (in review).
+Python code implementing and demonstrating the Pairwise Similarity Partitioning algorithm described by Petty (2022): The Pairwise Similarity Partitioning algorithm: a method for unsupervised partitioning of geoscientific and other datasets using arbitrary similarity metrics.  *Artificial Intelligence for the Earth Systems* (accepted).
 
 Files in this archive include the followiing:
 
